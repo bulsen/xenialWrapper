@@ -34,6 +34,7 @@ for picture2 in picture_list:
     <to>"""+picture2+"""</to>
   </transition>\n"""
   		glob_Arr.append(pawns)
+		picture1 = picture2
   	else:
   		picture1 = picture2
 

@@ -1,0 +1,1370 @@
+<background>
+  <starttime>
+    <year>2009</year>
+    <month>08</month>
+    <day>04</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<!-- This animation will start at midnight. -->
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/5dbal1v.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/5dbal1v.jpg</from>
+    <to>/usr/share/backgrounds/walls/qeuSjwD.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/qeuSjwD.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/qeuSjwD.jpg</from>
+    <to>/usr/share/backgrounds/walls/1Q5GEtv.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/1Q5GEtv.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/1Q5GEtv.jpg</from>
+    <to>/usr/share/backgrounds/walls/kNUQnj4.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/kNUQnj4.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/kNUQnj4.jpg</from>
+    <to>/usr/share/backgrounds/walls/Jtw4Rk2.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Jtw4Rk2.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Jtw4Rk2.jpg</from>
+    <to>/usr/share/backgrounds/walls/mT2CYtT.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/mT2CYtT.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/mT2CYtT.jpg</from>
+    <to>/usr/share/backgrounds/walls/HMJiXaO.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/HMJiXaO.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/HMJiXaO.jpg</from>
+    <to>/usr/share/backgrounds/walls/xlTgbgA.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/xlTgbgA.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/xlTgbgA.jpg</from>
+    <to>/usr/share/backgrounds/walls/Ifb8RD4.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Ifb8RD4.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Ifb8RD4.jpg</from>
+    <to>/usr/share/backgrounds/walls/fZ9bUBH.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/fZ9bUBH.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/fZ9bUBH.jpg</from>
+    <to>/usr/share/backgrounds/walls/SlrquYT.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/SlrquYT.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/SlrquYT.jpg</from>
+    <to>/usr/share/backgrounds/walls/InR8LNp.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/InR8LNp.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/InR8LNp.jpg</from>
+    <to>/usr/share/backgrounds/walls/To9m0YT.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/To9m0YT.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/To9m0YT.jpg</from>
+    <to>/usr/share/backgrounds/walls/ePyQ5Rv.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ePyQ5Rv.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ePyQ5Rv.jpg</from>
+    <to>/usr/share/backgrounds/walls/33DWALz.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/33DWALz.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/33DWALz.jpg</from>
+    <to>/usr/share/backgrounds/walls/EbYBsl0.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/EbYBsl0.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/EbYBsl0.jpg</from>
+    <to>/usr/share/backgrounds/walls/TtZgdyE.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/TtZgdyE.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/TtZgdyE.jpg</from>
+    <to>/usr/share/backgrounds/walls/ZVk0uca.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ZVk0uca.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ZVk0uca.jpg</from>
+    <to>/usr/share/backgrounds/walls/HZoupZy.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/HZoupZy.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/HZoupZy.jpg</from>
+    <to>/usr/share/backgrounds/walls/WP1YcgX.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/WP1YcgX.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/WP1YcgX.jpg</from>
+    <to>/usr/share/backgrounds/walls/8GGKyQS.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/8GGKyQS.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/8GGKyQS.jpg</from>
+    <to>/usr/share/backgrounds/walls/kyp4kuk.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/kyp4kuk.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/kyp4kuk.jpg</from>
+    <to>/usr/share/backgrounds/walls/LqQBIJR.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/LqQBIJR.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/LqQBIJR.jpg</from>
+    <to>/usr/share/backgrounds/walls/lHHfln7.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/lHHfln7.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/lHHfln7.jpg</from>
+    <to>/usr/share/backgrounds/walls/ISH6ej6.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ISH6ej6.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ISH6ej6.jpg</from>
+    <to>/usr/share/backgrounds/walls/iS9HIMV.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/iS9HIMV.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/iS9HIMV.jpg</from>
+    <to>/usr/share/backgrounds/walls/W5lRSSz.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/W5lRSSz.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/W5lRSSz.jpg</from>
+    <to>/usr/share/backgrounds/walls/XBYRj9t.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/XBYRj9t.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/XBYRj9t.jpg</from>
+    <to>/usr/share/backgrounds/walls/b9xaDVC.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/b9xaDVC.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/b9xaDVC.jpg</from>
+    <to>/usr/share/backgrounds/walls/Dh1D82H.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Dh1D82H.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Dh1D82H.jpg</from>
+    <to>/usr/share/backgrounds/walls/au3MgOM.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/au3MgOM.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/au3MgOM.jpg</from>
+    <to>/usr/share/backgrounds/walls/84QBbsF.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/84QBbsF.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/84QBbsF.jpg</from>
+    <to>/usr/share/backgrounds/walls/O63UrRd.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/O63UrRd.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/O63UrRd.jpg</from>
+    <to>/usr/share/backgrounds/walls/aMiTUG9.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/aMiTUG9.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/aMiTUG9.jpg</from>
+    <to>/usr/share/backgrounds/walls/MV0Q3Rq.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/MV0Q3Rq.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/MV0Q3Rq.jpg</from>
+    <to>/usr/share/backgrounds/walls/TnHd1mJ.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/TnHd1mJ.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/TnHd1mJ.jpg</from>
+    <to>/usr/share/backgrounds/walls/gtcJurr.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/gtcJurr.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/gtcJurr.jpg</from>
+    <to>/usr/share/backgrounds/walls/Jrwi6FU.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Jrwi6FU.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Jrwi6FU.jpg</from>
+    <to>/usr/share/backgrounds/walls/J6lFtyx.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/J6lFtyx.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/J6lFtyx.jpg</from>
+    <to>/usr/share/backgrounds/walls/ceED6O0.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ceED6O0.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ceED6O0.jpg</from>
+    <to>/usr/share/backgrounds/walls/nTGPSx1.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/nTGPSx1.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/nTGPSx1.jpg</from>
+    <to>/usr/share/backgrounds/walls/ozWJh3W.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ozWJh3W.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ozWJh3W.jpg</from>
+    <to>/usr/share/backgrounds/walls/pB5m7c2.png</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/pB5m7c2.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/pB5m7c2.png</from>
+    <to>/usr/share/backgrounds/walls/PyKzo5c.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/PyKzo5c.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/PyKzo5c.jpg</from>
+    <to>/usr/share/backgrounds/walls/bOAwnAV.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/bOAwnAV.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/bOAwnAV.jpg</from>
+    <to>/usr/share/backgrounds/walls/2s4DLZm.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/2s4DLZm.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/2s4DLZm.jpg</from>
+    <to>/usr/share/backgrounds/walls/wfDFWNO.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/wfDFWNO.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/wfDFWNO.jpg</from>
+    <to>/usr/share/backgrounds/walls/eNyUvmU.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/eNyUvmU.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/eNyUvmU.jpg</from>
+    <to>/usr/share/backgrounds/walls/wtO34Gd.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/wtO34Gd.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/wtO34Gd.jpg</from>
+    <to>/usr/share/backgrounds/walls/YBwCqaY.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/YBwCqaY.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/YBwCqaY.jpg</from>
+    <to>/usr/share/backgrounds/walls/8P0mSUu.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/8P0mSUu.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/8P0mSUu.jpg</from>
+    <to>/usr/share/backgrounds/walls/Y4vUPqf.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Y4vUPqf.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Y4vUPqf.jpg</from>
+    <to>/usr/share/backgrounds/walls/sueGKMC.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/sueGKMC.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/sueGKMC.jpg</from>
+    <to>/usr/share/backgrounds/walls/HCwJc9h.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/HCwJc9h.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/HCwJc9h.jpg</from>
+    <to>/usr/share/backgrounds/walls/n7hftjL.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/n7hftjL.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/n7hftjL.jpg</from>
+    <to>/usr/share/backgrounds/walls/fGkxk0N.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/fGkxk0N.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/fGkxk0N.jpg</from>
+    <to>/usr/share/backgrounds/walls/XryezFX.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/XryezFX.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/XryezFX.jpg</from>
+    <to>/usr/share/backgrounds/walls/oPzaIKZ.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/oPzaIKZ.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/oPzaIKZ.jpg</from>
+    <to>/usr/share/backgrounds/walls/OmcLt1s.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/OmcLt1s.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/OmcLt1s.jpg</from>
+    <to>/usr/share/backgrounds/walls/WmTV6Vz.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/WmTV6Vz.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/WmTV6Vz.jpg</from>
+    <to>/usr/share/backgrounds/walls/vFQhAmb.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/vFQhAmb.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/vFQhAmb.jpg</from>
+    <to>/usr/share/backgrounds/walls/6RyHgFq.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/6RyHgFq.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/6RyHgFq.jpg</from>
+    <to>/usr/share/backgrounds/walls/2IyKFTU.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/2IyKFTU.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/2IyKFTU.jpg</from>
+    <to>/usr/share/backgrounds/walls/GnvHwMx.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/GnvHwMx.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/GnvHwMx.jpg</from>
+    <to>/usr/share/backgrounds/walls/KhzdE3r.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/KhzdE3r.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/KhzdE3r.jpg</from>
+    <to>/usr/share/backgrounds/walls/Vermeer-view-of-delft.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Vermeer-view-of-delft.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Vermeer-view-of-delft.jpg</from>
+    <to>/usr/share/backgrounds/walls/UJG8F6U.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/UJG8F6U.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/UJG8F6U.jpg</from>
+    <to>/usr/share/backgrounds/walls/4M901RP.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/4M901RP.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/4M901RP.jpg</from>
+    <to>/usr/share/backgrounds/walls/6jQ7s5Z.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/6jQ7s5Z.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/6jQ7s5Z.jpg</from>
+    <to>/usr/share/backgrounds/walls/32veHUl.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/32veHUl.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/32veHUl.jpg</from>
+    <to>/usr/share/backgrounds/walls/jlaB3Gf.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/jlaB3Gf.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/jlaB3Gf.jpg</from>
+    <to>/usr/share/backgrounds/walls/ud1nEHi.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ud1nEHi.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ud1nEHi.jpg</from>
+    <to>/usr/share/backgrounds/walls/n37YPOL.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/n37YPOL.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/n37YPOL.jpg</from>
+    <to>/usr/share/backgrounds/walls/qc32nTN.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/qc32nTN.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/qc32nTN.jpg</from>
+    <to>/usr/share/backgrounds/walls/1DleDTw.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/1DleDTw.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/1DleDTw.jpg</from>
+    <to>/usr/share/backgrounds/walls/Wtig5hN.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Wtig5hN.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Wtig5hN.jpg</from>
+    <to>/usr/share/backgrounds/walls/PtQQsNd.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/PtQQsNd.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/PtQQsNd.jpg</from>
+    <to>/usr/share/backgrounds/walls/0p7wVSk.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/0p7wVSk.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/0p7wVSk.jpg</from>
+    <to>/usr/share/backgrounds/walls/3BpoyiU.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/3BpoyiU.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/3BpoyiU.jpg</from>
+    <to>/usr/share/backgrounds/walls/ShqAJh6.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ShqAJh6.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ShqAJh6.jpg</from>
+    <to>/usr/share/backgrounds/walls/9q1sEuD.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/9q1sEuD.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/9q1sEuD.jpg</from>
+    <to>/usr/share/backgrounds/walls/Yak7eZs.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Yak7eZs.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Yak7eZs.jpg</from>
+    <to>/usr/share/backgrounds/walls/sGQ6JdL.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/sGQ6JdL.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/sGQ6JdL.jpg</from>
+    <to>/usr/share/backgrounds/walls/T7upgm0.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/T7upgm0.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/T7upgm0.jpg</from>
+    <to>/usr/share/backgrounds/walls/OfvVC06.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/OfvVC06.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/OfvVC06.jpg</from>
+    <to>/usr/share/backgrounds/walls/dpf0D8c.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/dpf0D8c.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/dpf0D8c.jpg</from>
+    <to>/usr/share/backgrounds/walls/JNjBuN7.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/JNjBuN7.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/JNjBuN7.jpg</from>
+    <to>/usr/share/backgrounds/walls/m7XHen4.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/m7XHen4.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/m7XHen4.jpg</from>
+    <to>/usr/share/backgrounds/walls/QWMyXSf.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/QWMyXSf.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/QWMyXSf.jpg</from>
+    <to>/usr/share/backgrounds/walls/Gux2Frj.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Gux2Frj.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Gux2Frj.jpg</from>
+    <to>/usr/share/backgrounds/walls/ops1wiO.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ops1wiO.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ops1wiO.jpg</from>
+    <to>/usr/share/backgrounds/walls/a3biEuE.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/a3biEuE.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/a3biEuE.jpg</from>
+    <to>/usr/share/backgrounds/walls/YCBBXHA.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/YCBBXHA.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/YCBBXHA.jpg</from>
+    <to>/usr/share/backgrounds/walls/YOafCda.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/YOafCda.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/YOafCda.jpg</from>
+    <to>/usr/share/backgrounds/walls/xkmuhc8.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/xkmuhc8.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/xkmuhc8.jpg</from>
+    <to>/usr/share/backgrounds/walls/iBUzToj.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/iBUzToj.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/iBUzToj.jpg</from>
+    <to>/usr/share/backgrounds/walls/9MnMKJd.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/9MnMKJd.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/9MnMKJd.jpg</from>
+    <to>/usr/share/backgrounds/walls/RltbPKU.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/RltbPKU.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/RltbPKU.jpg</from>
+    <to>/usr/share/backgrounds/walls/lkvQHZZ.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/lkvQHZZ.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/lkvQHZZ.jpg</from>
+    <to>/usr/share/backgrounds/walls/q0WRkpo.png</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/q0WRkpo.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/q0WRkpo.png</from>
+    <to>/usr/share/backgrounds/walls/0qNbn5j.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/0qNbn5j.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/0qNbn5j.jpg</from>
+    <to>/usr/share/backgrounds/walls/eyL4I6T.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/eyL4I6T.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/eyL4I6T.jpg</from>
+    <to>/usr/share/backgrounds/walls/spfNPNO.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/spfNPNO.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/spfNPNO.jpg</from>
+    <to>/usr/share/backgrounds/walls/mC14LnF.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/mC14LnF.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/mC14LnF.jpg</from>
+    <to>/usr/share/backgrounds/walls/6fsmmzS.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/6fsmmzS.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/6fsmmzS.jpg</from>
+    <to>/usr/share/backgrounds/walls/OzKrlCb.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/OzKrlCb.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/OzKrlCb.jpg</from>
+    <to>/usr/share/backgrounds/walls/LfoOjrk.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/LfoOjrk.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/LfoOjrk.jpg</from>
+    <to>/usr/share/backgrounds/walls/aFD2f0X.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/aFD2f0X.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/aFD2f0X.jpg</from>
+    <to>/usr/share/backgrounds/walls/aqPLpc7.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/aqPLpc7.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/aqPLpc7.jpg</from>
+    <to>/usr/share/backgrounds/walls/1EQWFD3.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/1EQWFD3.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/1EQWFD3.jpg</from>
+    <to>/usr/share/backgrounds/walls/Thumbs.db</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Thumbs.db</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Thumbs.db</from>
+    <to>/usr/share/backgrounds/walls/6gVXZQN.png</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/6gVXZQN.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/6gVXZQN.png</from>
+    <to>/usr/share/backgrounds/walls/cKg9wXb.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/cKg9wXb.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/cKg9wXb.jpg</from>
+    <to>/usr/share/backgrounds/walls/Z90RVSo.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/Z90RVSo.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/Z90RVSo.jpg</from>
+    <to>/usr/share/backgrounds/walls/2uJXDmS.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/2uJXDmS.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/2uJXDmS.jpg</from>
+    <to>/usr/share/backgrounds/walls/BbLYBmH.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/BbLYBmH.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/BbLYBmH.jpg</from>
+    <to>/usr/share/backgrounds/walls/gSre6OT.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/gSre6OT.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/gSre6OT.jpg</from>
+    <to>/usr/share/backgrounds/walls/WpB6C5I.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/WpB6C5I.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/WpB6C5I.jpg</from>
+    <to>/usr/share/backgrounds/walls/y4PsyQJ.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/y4PsyQJ.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/y4PsyQJ.jpg</from>
+    <to>/usr/share/backgrounds/walls/xWrZvE9.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/xWrZvE9.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/xWrZvE9.jpg</from>
+    <to>/usr/share/backgrounds/walls/33vNKyW.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/33vNKyW.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/33vNKyW.jpg</from>
+    <to>/usr/share/backgrounds/walls/dPSrdvG.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/dPSrdvG.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/dPSrdvG.jpg</from>
+    <to>/usr/share/backgrounds/walls/snXRPqe.png</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/snXRPqe.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/snXRPqe.png</from>
+    <to>/usr/share/backgrounds/walls/zdwDD03.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/zdwDD03.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/zdwDD03.jpg</from>
+    <to>/usr/share/backgrounds/walls/lOy1MHe.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/lOy1MHe.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/lOy1MHe.jpg</from>
+    <to>/usr/share/backgrounds/walls/pYzjMWE.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/pYzjMWE.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/pYzjMWE.jpg</from>
+    <to>/usr/share/backgrounds/walls/q1G5Z3H.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/q1G5Z3H.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/q1G5Z3H.jpg</from>
+    <to>/usr/share/backgrounds/walls/ia5BjuB.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ia5BjuB.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ia5BjuB.jpg</from>
+    <to>/usr/share/backgrounds/walls/k5k3aud.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/k5k3aud.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/k5k3aud.jpg</from>
+    <to>/usr/share/backgrounds/walls/8FuinYD.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/8FuinYD.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/8FuinYD.jpg</from>
+    <to>/usr/share/backgrounds/walls/W1XqbX6.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/W1XqbX6.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/W1XqbX6.jpg</from>
+    <to>/usr/share/backgrounds/walls/E8HMxeq.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/E8HMxeq.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/E8HMxeq.jpg</from>
+    <to>/usr/share/backgrounds/walls/5e5fTDU.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/5e5fTDU.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/5e5fTDU.jpg</from>
+    <to>/usr/share/backgrounds/walls/8MqXtAz.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/8MqXtAz.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/8MqXtAz.jpg</from>
+    <to>/usr/share/backgrounds/walls/OhZaQtO.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/OhZaQtO.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/OhZaQtO.jpg</from>
+    <to>/usr/share/backgrounds/walls/0x7nR4V.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/0x7nR4V.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/0x7nR4V.jpg</from>
+    <to>/usr/share/backgrounds/walls/uf3UaOU.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/uf3UaOU.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/uf3UaOU.jpg</from>
+    <to>/usr/share/backgrounds/walls/xTf4nBj.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/xTf4nBj.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/xTf4nBj.jpg</from>
+    <to>/usr/share/backgrounds/walls/hAwDl3p.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/hAwDl3p.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/hAwDl3p.jpg</from>
+    <to>/usr/share/backgrounds/walls/g5geCNV.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/g5geCNV.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/g5geCNV.jpg</from>
+    <to>/usr/share/backgrounds/walls/AoTeDO6.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/AoTeDO6.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/AoTeDO6.jpg</from>
+    <to>/usr/share/backgrounds/walls/SXodFBd.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/SXodFBd.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/SXodFBd.jpg</from>
+    <to>/usr/share/backgrounds/walls/UFbffwD.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/UFbffwD.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/UFbffwD.jpg</from>
+    <to>/usr/share/backgrounds/walls/i4tuIom.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/i4tuIom.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/i4tuIom.jpg</from>
+    <to>/usr/share/backgrounds/walls/ceIvbqd.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/ceIvbqd.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/ceIvbqd.jpg</from>
+    <to>/usr/share/backgrounds/walls/KWdKPS3.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/KWdKPS3.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/KWdKPS3.jpg</from>
+    <to>/usr/share/backgrounds/walls/c11MyKY.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/c11MyKY.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/c11MyKY.jpg</from>
+    <to>/usr/share/backgrounds/walls/TT2y2O3.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/TT2y2O3.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/TT2y2O3.jpg</from>
+    <to>/usr/share/backgrounds/walls/cloudsdark.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/cloudsdark.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/cloudsdark.jpg</from>
+    <to>/usr/share/backgrounds/walls/avF0o64.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/avF0o64.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/avF0o64.jpg</from>
+    <to>/usr/share/backgrounds/walls/kpiwagY.jpg</to>
+  </transition>
+<static>
+    <duration>55.0</duration>
+    <file>/usr/share/backgrounds/walls/kpiwagY.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/walls/kpiwagY.jpg</from>
+    <to>/usr/share/backgrounds/walls/fAjkJNR.jpg</to>
+  </transition>
+</background>
